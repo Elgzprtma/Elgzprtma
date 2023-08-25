@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Andika Surya</h1>
 <h3 align="center">Programmer pemula yang berasal dari indonesia</h3>
 
-<img align="right" width="300" src="[https://38.media.tumblr.com/1e7ab70f69c243a88539fc1161bb6b55/tumblr_njz6zrsrBv1shpedgo2_540.gif](https://tenor.com/id/view/coding-gif-27034905)](https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif)](https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif)">
+<img align="right" width="300" src="https://38.media.tumblr.com/1e7ab70f69c243a88539fc1161bb6b55/tumblr_njz6zrsrBv1shpedgo2_540.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgzprtma&label=Profile%20views&color=880eb4&style=flat" alt="elgzprtma" /> </p>
