@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--RSrVjzgo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lesbaa8cdfhy794wp41a.gif)
 
 
 <h1 align="center">Hi 👋, I'm Andika Surya</h1>
