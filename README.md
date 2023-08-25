@@ -4,10 +4,10 @@
 <h1 align="center">Hi 👋, I'm Andika Surya</h1>
 <h3 align="center">Programmer pemula yang berasal dari indonesia</h3>
 
-<img align="right" width="300" src="https://38.media.tumblr.com/1e7ab70f69c243a88539fc1161bb6b55/tumblr_njz6zrsrBv1shpedgo2_540.gif">
+<img align="right" width="300" src="[https://38.media.tumblr.com/1e7ab70f69c243a88539fc1161bb6b55/tumblr_njz6zrsrBv1shpedgo2_540.gif](https://tenor.com/id/view/coding-gif-27034905)">
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=elgzprtma&label=Profile%20views&color=0e75b6&style=flat" alt="elgzprtma](https://tenor.com/id/view/coding-gif-27034905)" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elgzprtma" alt="elgzprtma" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Laravel, React, PHP, Unity**
 
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elgzprtma&show_icons=true&locale=en" alt="elgzprtma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elgzprtma&" alt="elgzprtma" /></p>
-
