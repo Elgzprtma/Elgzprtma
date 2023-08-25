@@ -7,7 +7,7 @@
 <img align="right" width="300" src="[https://38.media.tumblr.com/1e7ab70f69c243a88539fc1161bb6b55/tumblr_njz6zrsrBv1shpedgo2_540.gif](https://tenor.com/id/view/coding-gif-27034905)](https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif)](https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif)">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elgzprtma" alt="elgzprtma" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elgzprtma&label=Profile%20views&color=880eb4&style=flat" alt="elgzprtma" /> </p>
 
 - 🌱 I’m currently learning **C++, Laravel, React, PHP, Unity**
 
