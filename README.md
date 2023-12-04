@@ -8,10 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgzprtma&label=Profile%20views&color=880eb4&style=flat" alt="elgzprtma" /> </p>
 
-- 🌱 I’m currently learning **C++, Laravel, React, PHP, Unity**
-
-- 💬 Ask me about **Nothing**
-
 - 📫 How to reach me **dikaelang13@gmail.com**
 
 - ⚡ Fun fact **Pemula**
