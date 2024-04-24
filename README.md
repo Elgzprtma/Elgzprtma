@@ -1,15 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Andika Surya</h1>
-<h3 align="center">Programmer pemula yang berasal dari indonesia</h3>
-
-<img align="right" width="300" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgzprtma&label=Profile%20views&color=880eb4&style=flat" alt="elgzprtma" /> </p>
-
-- 📫 How to reach me **dikaelang13@gmail.com**
-
-- ⚡ Fun fact **Pemula**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
